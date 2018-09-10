@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Simple_test</groupId>
-  <artifactId>Simple_Proj</artifactId>
+  <artifactId>nwq</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Simple_Proj</name>
+  <name>Simple</name>
   <url>http://maven.apache.org</url>
 
   <properties>
